@@ -1,0 +1,2 @@
+# reacttodolist initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/BUSEKILINC/reacttodolist.gitgit push -u origin main
+# reacttodolist initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/BUSEKILINC/reacttodolist.gitgit push -u origin main
